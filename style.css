@@ -363,3 +363,6 @@ h2{
 link{
     display: none;
 }
+b{
+    cursor: pointer;
+}
