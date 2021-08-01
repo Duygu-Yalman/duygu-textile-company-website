@@ -343,6 +343,7 @@ h2{
     font-size: 22px;
     margin-left: 50px;
     cursor: pointer;
+    color: black;
 }
 .hr-form{
     height: auto;
@@ -365,10 +366,10 @@ link{
 }
 b{
     cursor: pointer;
+    color: black;
 }
 a{
     text-decoration: none;
     color: white;
     margin-left:20px;
-    background-color: black;
 }
